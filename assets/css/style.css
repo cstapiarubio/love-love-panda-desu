@@ -12,6 +12,8 @@ padding: 0;
 box-sizing: border-box;
 font-family: font-family: 'Raleway', sans-serif;
 color: white;
+background-color: #F78E69;
+text-align: center
 }
 
 #cabecera{
@@ -46,4 +48,6 @@ text-align: right;
 #articulo h1{
 	text-align: center;
 }
+
+
 
