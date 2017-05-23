@@ -6,3 +6,44 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+*{
+margin: 0;
+padding: 0;	
+box-sizing: border-box;
+font-family: font-family: 'Raleway', sans-serif;
+color: white;
+}
+
+#cabecera{
+	background-color: #F78E69;
+}
+
+
+#cabecera p,
+h1{
+
+margin-right: 20px;
+margin-bottom: 10px;
+text-align: right;
+}
+
+/*#img1{
+	object-position: center;
+}*/
+
+#osopanda{
+	background-color: #ABE188;
+}
+
+#articulo{
+	text-align: center;
+	background-color: #F78E69;
+	width: 40%;
+	margin: 0 auto;
+	padding: 30px 30px 100px 30px;
+}
+
+#articulo h1{
+	text-align: center;
+}
+
